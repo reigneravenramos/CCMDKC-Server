@@ -1,4 +1,4 @@
-<h1 align="center">CCMDKC-Backend</h1>
+<h1 align="center">Cipriana Coquia Memorial Dialysis Kidney Center (CCMDKC - Backend)</h1>
 
 # Project Description
 
