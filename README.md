@@ -8,4 +8,4 @@ Built to ensure data integrity and security, the server processes requests, mana
 
 To view the client-side implementation of the system, please refer to the frontend repository linked below. The frontend provides the user interface and interacts with the server through secure API endpoints.
 
-🔗 Frontend Repository: https://github.com/reigneravenramos/CDKC-Web
+🔗 Frontend Repository: https://github.com/reigneravenramos/CCMDKC-Web
